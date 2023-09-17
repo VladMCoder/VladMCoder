@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VladM4526</h1>
 <h3 align="center">Junior Front-end Developer (React) from Ukraine</h3>
 
-- 🌱 I’m currently learning **GoIT**
+- 🌱 I’m currently learning in **GoIT**
 
 - 👨‍💻 All of my projects are available at [https://developer-portfolio-vladm.netlify.app/](https://developer-portfolio-vladm.netlify.app/)
 
