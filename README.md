@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://developer-portfolio-vladm.netlify.app/](https://developer-portfolio-vladm.netlify.app/)
 
-- 📝 I regularly support my own react app [https://pics-links.netlify.app/](https://pics-links.netlify.app/)
-
 - 📄 Know about my experiences [https://cv.djinni.co/91/f43be5a34700a5b47f334754a17ca5/CV-new.pdf](https://cv.djinni.co/91/f43be5a34700a5b47f334754a17ca5/CV-new.pdf)
 
 <h3 align="left">Connect with me:</h3>
