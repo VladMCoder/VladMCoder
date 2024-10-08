@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm VladM4526</h1>
+<h3>UI/UX Designer</h3>
 <h3 align="center">Junior Front-end Developer (React) from Ukraine</h3>
 
 - 👨‍💻 All of my projects are available at [https://developer-portfolio-vladm.netlify.app/](https://developer-portfolio-vladm.netlify.app/)
