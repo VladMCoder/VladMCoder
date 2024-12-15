@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VladM4526</h1>
 <h3 align="center">UI/UX Designer (Figma)</h3>
-<h3 align="center">Junior Front-end Developer (React.js)</h3>
+<h3 align="center">Full Developer (React.js and Node.js)</h3>
 
 - 👨‍💻 All of my projects are available at [https://developer-portfolio-vladm.netlify.app/](https://developer-portfolio-vladm.netlify.app/)
 
