@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VladM4526</h1>
+<h1 align="center">Hi 👋, I'm VladMCoder</h1>
 <h3 align="center">UI/UX Designer (Figma)</h3>
 <h3 align="center">Full Stack Developer (React.js and Node.js)</h3>
 
