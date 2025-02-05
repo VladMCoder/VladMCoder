@@ -1,5 +1,5 @@
 # 💫 Hello 👋, I'm a junior web full stack developer
-I'm currectly open for offers<br>I'm creator PicsWorldStudio and SafeTasker
+I'm currectly open for offers<br>I'm creator PicsWorldStudio, SafeTasker and PicsTalk podcast
 
 
 ## 🌐 Socials:
