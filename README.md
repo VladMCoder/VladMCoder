@@ -1,4 +1,4 @@
-# 💫 Hello 👋, I'm a junior web full stack developer from Ukraine
+# 💫 Hello 👋, I'm a junior web full stack developer
 I'm currectly open for offers<br>I'm creator PicsWorldStudio and SafeTasker
 
 
