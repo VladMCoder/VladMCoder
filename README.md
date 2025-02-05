@@ -1,4 +1,4 @@
-![Cover for github](https://github.com/user-attachments/assets/eb83a6b8-c03b-48b5-8ae7-5cda7e79ac85)
+![Cover for github](https://github.com/user-attachments/assets/56654dc4-b64c-4a8a-8938-2dd39f70e91d)
 
 # 💫 Hello 👋, I'm a junior web full stack developer
 I'm currectly open for offers<br>I'm creator PicsWorldStudio, SafeTasker and PicsTalk podcast
